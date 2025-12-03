@@ -1,0 +1,28 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "ASE230 Project 2 Portfolio"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowAllPages = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/pages/portfolio/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Project 1"
+    url = "/pages/project1/"
+    weight = 2
+
+
+
+
+

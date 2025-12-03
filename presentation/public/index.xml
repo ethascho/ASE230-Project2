@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ASE230 Project 2 Portfolio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on ASE230 Project 2 Portfolio</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio Overview</title>
+      <link>//localhost:1313/pages/portfolio/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/portfolio/</guid>
+      <description>&lt;h1 id=&#34;my-ase230-projects&#34;&gt;My ASE230 Projects&lt;/h1&gt;
+&lt;h2 id=&#34;project-1-php-rest-api&#34;&gt;Project 1: PHP REST API&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Built with pure PHP&lt;/li&gt;
+&lt;li&gt;CRUD endpoints&lt;/li&gt;
+&lt;li&gt;Authentication&lt;/li&gt;
+&lt;li&gt;Documentation included&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-2-laravel-rest-api&#34;&gt;Project 2: Laravel REST API&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Laravel routing &amp;amp; controllers&lt;/li&gt;
+&lt;li&gt;Eloquent ORM&lt;/li&gt;
+&lt;li&gt;Sanctum Authentication&lt;/li&gt;
+&lt;li&gt;Docker Deployment&lt;/li&gt;
+&lt;li&gt;Hugo Documentation&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Project 1 – REST API Tutorial</title>
+      <link>//localhost:1313/pages/project1/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/project1/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;project-1--rest-api-tutorial&#34;&gt;Project 1 – REST API Tutorial&lt;/h1&gt;
+&lt;h3 id=&#34;ase-230--ethan-schoultheis&#34;&gt;ASE 230 – Ethan Schoultheis&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Professor Samuel Cho&lt;br&gt;
+&lt;strong&gt;Project Goal:&lt;/strong&gt; Build a complete REST API in PHP/MySQL with authentication and deployment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;slide-2--overview&#34;&gt;Slide 2 – Overview&lt;/h1&gt;
+&lt;p&gt;This project demonstrates a RESTful web service built using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PHP&lt;/strong&gt; (server-side scripting)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MySQL&lt;/strong&gt; database integration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bearer Token&lt;/strong&gt; authentication&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CRUD&lt;/strong&gt; operations for student data&lt;/li&gt;
+&lt;li&gt;Testing using &lt;strong&gt;cURL&lt;/strong&gt; and &lt;strong&gt;HTML/JavaScript&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Deployment with &lt;strong&gt;NGINX&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;bg left height:6in&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/image-2.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;slide-3--objectives&#34;&gt;Slide 3 – Objectives&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how REST APIs communicate using HTTP methods&lt;/li&gt;
+&lt;li&gt;Implement CRUD in PHP and connect to MySQL&lt;/li&gt;
+&lt;li&gt;Secure access using token-based authentication&lt;/li&gt;
+&lt;li&gt;Test API endpoints via cURL and browser&lt;/li&gt;
+&lt;li&gt;Document and deploy the final project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;slide-4--system-architecture&#34;&gt;Slide 4 – System Architecture&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Frontend:&lt;/strong&gt; HTML/JavaScript Test Page&lt;br&gt;
+&lt;strong&gt;Backend:&lt;/strong&gt; PHP REST API&lt;br&gt;
+&lt;strong&gt;Database:&lt;/strong&gt; MySQL (via phpMyAdmin)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
